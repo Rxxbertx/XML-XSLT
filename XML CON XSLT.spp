@@ -6,6 +6,7 @@
 	<Folder FolderName="XSL Files" ExtStr="xsl;xslt">
 		<File FilePath="XSLT\cuatro_1.xslt" HomeFolder="Yes"/>
 		<File FilePath="XSLT\cuatro_2.xslt" HomeFolder="Yes"/>
+		<File FilePath="XSLT\cuatro_4.xslt" HomeFolder="Yes"/>
 	</Folder>
 	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery;xqu"/>
 	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp"/>
