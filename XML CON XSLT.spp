@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
 	<Folder FolderName="XML Files" ExtStr="xml;cml;math;rdf;smil;svg;wml">
-		<File FilePath="XML\EJERCICIO1.xml" HomeFolder="Yes"/>
+		<File FilePath="XML\comentarios.xml" HomeFolder="Yes"/>
+		<File FilePath="XML\libros.xml" HomeFolder="Yes"/>
 	</Folder>
-	<Folder FolderName="XSL Files" ExtStr="xsl;xslt">
-		<File FilePath="XSLT\cuatro_1.xslt" HomeFolder="Yes"/>
-		<File FilePath="XSLT\cuatro_2.xslt" HomeFolder="Yes"/>
-		<File FilePath="XSLT\cuatro_4.xslt" HomeFolder="Yes"/>
+	<Folder FolderName="XSL Files" ExtStr="xsl;xslt"/>
+	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery;xqu">
+		<File FilePath="ejer3.xql" HomeFolder="Yes"/>
+		<File FilePath="XQL\prueba1.xql" HomeFolder="Yes"/>
+		<File FilePath="XQL\prueba2.xql" HomeFolder="Yes"/>
 	</Folder>
-	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery;xqu"/>
 	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp"/>
 	<Folder FolderName="DTD/Schemas" ExtStr="dtd;dcd;xdr;biz;xsd"/>
 	<Folder FolderName="Entities" ExtStr="ent"/>
